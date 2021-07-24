@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👗 모바일 퍼스널 쇼퍼 **3PS** FE 리드 개발자  
-🍪 **쿠키파킹** FE 개발자  
-💻 연세대학교 공과대학 학생회 홈페이지 FE 리드 개발자  
+👗 모바일 퍼스널 쇼퍼 **3PS** FE 개발자  
+🍪 **쿠키파킹** FE 개발자   
 
 ### ✨Stack
 <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
