@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/styled-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>  
+<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/styled-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a> <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Express-000000?Express=flat-square&logo=Express&logoColor=white"/></a>
+<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Storybook-FF4785?Storybook=flat-square&logo=Storybook&logoColor=white"/></a>
+<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Sequelize-52B0E7?Sequelize=flat-square&logo=Sequelize&logoColor=white"/></a>  
+
 <br></br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyundang&show_icons=true&theme=radical))]
